@@ -1,4 +1,4 @@
-# Automatic-Package-Box-Splitter-for-E-Commerce-Logistics
+# IoT-based automatic package sorting system using ESP8266 and RFID to prevent courier mismatches in e-commerce logistics.
 
 📦 Automatic Package Box Splitter for E-Commerce Logistics
 📌 Project Overview
