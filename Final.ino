@@ -21,11 +21,8 @@ MFRC522 mfrc522(SS_PIN, RST_PIN);
 
 bool locked;
 
-const char* ssid = "Jeevanth";
-const char* password ="Jeev@2006";
-
-// const char* ssid = "OPPOReno8T5G";
-// const char* password ="OPPO8T5G";
+const char* ssid = "********";
+const char* password ="*********";
 
 void setup() {
 
